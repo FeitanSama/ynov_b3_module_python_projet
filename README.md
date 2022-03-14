@@ -7,6 +7,13 @@
 + API (Flask)
 + Dashboard Streamlit  
 
+## Pré-requis
+
+```
+pip install requests pandas selenium pymongo matplotlib streamlit st_aggrid plotly
+```
+
+
 ## Comment utiliser le projet en local ?
 
 1. Cloner le depot
@@ -55,5 +62,5 @@ python3 api.py
 8. Lancer le quatrième script : app.py
 
 ```
-python3 app.py
+streamlit run app.py
 ```
