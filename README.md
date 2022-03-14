@@ -10,7 +10,7 @@
 ## Pré-requis
 
 ```
-pip install requests pandas selenium pymongo matplotlib streamlit st_aggrid plotly
+pip install requests pandas selenium pymongo matplotlib streamlit st_aggrid plotly flask_restful
 ```
 
 
