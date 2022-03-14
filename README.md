@@ -22,7 +22,7 @@ pip install requests pandas selenium pymongo matplotlib streamlit st_aggrid plot
 git clone https://github.com/FeitanSama/ynov_b3_module_python_projet/
 ```
 
-2. Télécharger la version du chrome driver associé à votre navigateur et le remplacer dans dossier
+2. Télécharger la version du chrome driver associé à votre navigateur et le remplacer dans le dossier
 
 ```
 https://chromedriver.chromium.org/downloads
