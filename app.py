@@ -9,7 +9,7 @@ import plotly.graph_objects as go
 import os
 import requests
 
-
+# CACHE
 @st.cache
 def load_data_df():
     """Load dataset in cache"""
