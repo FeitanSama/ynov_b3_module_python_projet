@@ -1,0 +1,18 @@
+// SCRAPING
+
++ Image
+
+// API
+
++ CRUD
+
+// STREAMLIT
+
++ Sidebar
+    + Launch Scraping
+    + Push data in database
+    + Graphiques
+
++ Main
+    + Visualisation titre
+    + Visualisation emsemble de titres
